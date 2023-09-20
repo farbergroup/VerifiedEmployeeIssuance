@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'VC-WebApp-AFarberAssociates'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_730ADAE5D46347478A21C946930C20F7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E090F559AED406780635529827B7CE2 }}
           package: .
